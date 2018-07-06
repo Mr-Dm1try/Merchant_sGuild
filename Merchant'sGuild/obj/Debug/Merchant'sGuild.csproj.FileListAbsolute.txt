@@ -1,0 +1,7 @@
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\bin\Debug\Merchant'sGuild.exe.config
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\bin\Debug\Merchant'sGuild.exe
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\bin\Debug\Merchant'sGuild.pdb
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\obj\Debug\Merchant'sGuild.csprojAssemblyReference.cache
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\obj\Debug\Merchant'sGuild.csproj.CoreCompileInputs.cache
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\obj\Debug\Merchant'sGuild.exe
+C:\Users\mrdmi\source\repos\Merchant'sGuild\Merchant'sGuild\obj\Debug\Merchant'sGuild.pdb
